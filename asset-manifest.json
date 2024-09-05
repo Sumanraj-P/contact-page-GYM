@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-page-GYM/static/css/main.c6a41b8e.css",
+    "main.js": "/contact-page-GYM/static/js/main.d423432a.js",
+    "static/js/453.1fa24651.chunk.js": "/contact-page-GYM/static/js/453.1fa24651.chunk.js",
+    "index.html": "/contact-page-GYM/index.html",
+    "main.c6a41b8e.css.map": "/contact-page-GYM/static/css/main.c6a41b8e.css.map",
+    "main.d423432a.js.map": "/contact-page-GYM/static/js/main.d423432a.js.map",
+    "453.1fa24651.chunk.js.map": "/contact-page-GYM/static/js/453.1fa24651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a41b8e.css",
+    "static/js/main.d423432a.js"
+  ]
+}
